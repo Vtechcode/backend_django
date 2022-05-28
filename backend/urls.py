@@ -18,5 +18,9 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+<<<<<<< HEAD
     #No need for another path
+=======
+    #Add another file path hear
+>>>>>>> eae344f269f25f79c6263c3f7ba92cc9f659a9b0
 ]
